@@ -1,4 +1,4 @@
-//package object1;
+package object1;//package object1;
 import java.util.logging.Logger;
 
 public class Main {
